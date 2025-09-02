@@ -23,7 +23,7 @@ regiscout ratings is a frequently-updated page maintained by two individuals:\
 
 <img src="https://i.postimg.cc/zGJCrfQZ/image.png" width="250">
 
-**currently visiting: regiscout rater <ins>clover</ins>**\
+**currently visiting:　regiscout rater <ins>clover</ins>　[right]**\
 [🍀]　  he/him/his　 masculine terms　 adult [18+]</sup>
 
 
