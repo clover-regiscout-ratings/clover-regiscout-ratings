@@ -10,7 +10,7 @@ to abide by [pt's tos](https://pony.town/termsofservice.html) of not allowing sh
 > regiscout ratings was directly inspired by the [pt regiment rater](rentry.co/ptregimentrater)! viewers are highly encouraged\
 > to check out their page to see additional alternative takes on all group ratings. as always, use\
 > your best judgement; <b>the best decisions are made after considering multiple perspectives.</b>
-### · ──────────── · 𖥸 · ──────────── ·
+### · ──────────────── · 𖥸 · ──────────────── ·
 
 <h3>
 <ins>what is regiscout ratings?</ins>　[who are you two?]
@@ -35,7 +35,7 @@ regiscout ratings is a frequently-updated page maintained by two individuals:\
 all information regarding the **event observation/rating process** can be\
 found on our [information + frequently asked questions rentry.](https://rentry.co/regiscout-ratings-info)
 
-### · ──────────── · 𖥸 · ──────────── ·
+### · ──────────────── · 𖥸 · ──────────────── ·
 </div>
 
 | <h3><ins>so, who maintains regiscout ratings?</ins></h3> | <h3><ins>why/when was regiscout ratings created?</ins></h3> |
