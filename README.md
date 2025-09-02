@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="450">
+<img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="475">
   
 <b> [atabook](https://regiscout-ratings.atabook.org)　 　[strawpage](https://regiscout-ratings.straw.page/)　 　[info + faq rentry](https://rentry.co/regiscout-ratings-info)　 　[ratings rentry](https://rentry.co/regiscout-ratings)\
 →　 [clover's github](https://github.com/clover-regiscout-ratings)　 　[apple's github](https://github.com/apple-regiscout-ratings) </b>
@@ -27,8 +27,8 @@ regiscout ratings is a frequently-updated page maintained by two individuals:\
 
 <h3><ins>what do you two do?</ins>　[group staff, look here!]</h3>
 
-all information regarding the **event observation/rating process** can be\
-found on our [information + frequently asked questions rentry.](https://rentry.co/regiscout-ratings-info)
+> all information regarding the **event observation/rating process** can be read\
+> on our [information + frequently asked questions page](https://rentry.co/regiscout-ratings-info) over on rentry.
 
 ### · ──────── · 𖥸 · ──────── ·
 
