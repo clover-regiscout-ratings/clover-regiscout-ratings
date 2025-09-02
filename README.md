@@ -20,7 +20,7 @@ to abide by [pt's tos](https://pony.town/termsofservice.html) of not allowing sh
 
 
 regiscout ratings is a frequently-updated page maintained by two individuals:\
-🍀  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#5b7850}\large\mathsf{clover}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍎  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#b34c36}\large\mathsf{apple}}}$** [[github](https://github.com/apple-regiscout-ratings)].
+🍀  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#4e6f4f}\large\mathsf{clover}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍎  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#b34c36}\large\mathsf{apple}}}$** [[github](https://github.com/apple-regiscout-ratings)].
 
 > these are obviously not formerly and/or currently claimed regiscout names. we understand\
 > "anonymity" only goes so far on ponytown, but we kindly ask that in-game friends/mutuals\
