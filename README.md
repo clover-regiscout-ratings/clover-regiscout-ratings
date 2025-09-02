@@ -1,6 +1,7 @@
 
 <div align="center">
-<img src="https://i.postimg.cc/K82c0ggy/logo.png" width="400">
+<img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="500">
+
 
 <b> [atabook](https://regiscout-ratings.atabook.org)　 　[strawpage](https://regiscout-ratings.straw.page/)　 　[info + faq rentry](https://rentry.co/regiscout-ratings-info)　 　[ratings rentry](https://rentry.co/regiscout-ratings)\
 →　 [clover's github](https://github.com/clover-regiscout-ratings)　 　[apple's github](https://github.com/apple-regiscout-ratings) </b>
