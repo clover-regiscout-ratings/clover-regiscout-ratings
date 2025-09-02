@@ -4,7 +4,7 @@
 
 <b> [regiscout ratings atabook](https://regiscout-ratings.atabook.org)　 　[information + faq rentry](https://rentry.co/regiscout-ratings-info)　 　[regiscout ratings rentry](https://rentry.co/regiscout-ratings) </b>
 
-regiment owners, please contact our discord [@regiscout_ratings](https://discord.com/users/1412353928355516516) for friendly discussion/rating inquiries.\
+<ins>**regiment owners**</ins>, please contact our discord [@regiscout_ratings](https://discord.com/users/1412353928355516516) for friendly discussion/rating inquiries.\
 to abide by [pt's tos](https://pony.town/termsofservice.html) of not allowing shared accounts, our dual-owned profile is not linked in-game.
 
 > regiscout ratings was directly inspired by the [pt regiment rater](rentry.co/ptregimentrater)! viewers are highly encouraged\
