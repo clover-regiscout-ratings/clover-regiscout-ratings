@@ -41,7 +41,7 @@ regiscout ratings is a frequently-updated page maintained by two partners:\
 <div align="center">
 
 <h3>
-<ins>before you leave...</ins>　[contact info & inspiration credits]
+<ins>before you head out...</ins>　[contact info & inspiration credits]
 </h3>
 
 <ins>**regiment owners**</ins>, please contact our discord [@regiscout_ratings](https://discord.com/users/1412353928355516516) for friendly discussion/rating inquiries.\
