@@ -30,7 +30,7 @@ regiscout ratings is a frequently-updated page maintained by two individuals:\
 all information regarding the **event observation/rating process** can be\
 found on our [information + frequently asked questions rentry.](https://rentry.co/regiscout-ratings-info)
 
-### · ──────────────── · 𖥸 · ──────────────── ·
+### · ──────── · 𖥸 · ──────── ·
 
 </div>
 
@@ -51,7 +51,7 @@ to abide by [pt's tos](https://pony.town/termsofservice.html) of not allowing sh
 > to check out their page to see additional alternative takes on all group ratings. as always, use\
 > your best judgement; <b>the best decisions are made after considering multiple perspectives.</b>
 
-### · ──────────────── · 𖥸 · ──────────────── ·
+### · ──────── · 𖥸 · ──────── ·
 
 </div>
 
