@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="500">
+<img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="450">
 
 
 <b> [atabook](https://regiscout-ratings.atabook.org)　 　[strawpage](https://regiscout-ratings.straw.page/)　 　[info + faq rentry](https://rentry.co/regiscout-ratings-info)　 　[ratings rentry](https://rentry.co/regiscout-ratings)\
