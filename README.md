@@ -13,7 +13,7 @@
 
 
 regiscout ratings is a frequently-updated page maintained by two partners:\
-🍀  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#5c7c59}\large\mathsf{clover}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍎  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#af4c43}\large\mathsf{apple}}}$** [[github](https://github.com/apple-regiscout-ratings)].
+🍀  **regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍎  **regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$** [[github](https://github.com/apple-regiscout-ratings)].
 <br/>
 <br/>
 
@@ -31,7 +31,7 @@ regiscout ratings is a frequently-updated page maintained by two partners:\
 <br/>
 <br/>
 
-**currently visiting:　regiscout rater <ins>clover</ins>　[right]**\
+**currently visiting:　regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$　[right]**\
 [🍀]　  he/him/his　 masculine terms　 adult [18+]</sup>
 <br/>
 <br/>
