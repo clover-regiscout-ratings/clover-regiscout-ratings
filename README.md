@@ -1,11 +1,17 @@
 
 <div align="center">
 <img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="450">
+  
 
 
 <b> [atabook](https://regiscout-ratings.atabook.org)　 　[strawpage](https://regiscout-ratings.straw.page/)　 　[info + faq rentry](https://rentry.co/regiscout-ratings-info)　 　[ratings rentry](https://rentry.co/regiscout-ratings)\
 →　 [clover's github](https://github.com/clover-regiscout-ratings)　 　[apple's github](https://github.com/apple-regiscout-ratings) </b>
 
+### · ──────── · 𖥸 · ──────── ·
+
+<h3>
+<ins>before you begin reading...</ins>　[contact information]
+</h3>
 
 <ins>**regiment owners**</ins>, please contact our discord [@regiscout_ratings](https://discord.com/users/1412353928355516516) for friendly discussion/rating inquiries.\
 to abide by [pt's tos](https://pony.town/termsofservice.html) of not allowing shared accounts, our dual-owned profile is not linked in-game.
