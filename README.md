@@ -26,7 +26,7 @@
 
 ### **currently visiting:　regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$**
 [🍀]　  he/him/his　 masculine terms　 adult [21-]\
-primary observation type:　<ins>participator</ins>
+preferred observation type:　<ins>participator</ins>
 <br/>
 
 |  |
