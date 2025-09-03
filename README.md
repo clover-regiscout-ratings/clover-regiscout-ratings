@@ -16,16 +16,9 @@ regiscout ratings is a frequently-updated page maintained by two partners:\
 🍀  **regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍎  **regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$** [[github](https://github.com/apple-regiscout-ratings)].
 <br/>
 <br/>
-
-> these are obviously not formerly and/or currently claimed regiscout names. this is\
-> intentionally done <ins>**only**</ins> to fully separate ourselves during and limit any potential\
-> biases from the regiscout ratings project. our "anonymity" is <ins>**not**</ins> about maintaining\
-> secrecy, it is simply a practical measure to keep what we do 100% fair and focused.
-> <br/>
-> <br/>
-> thus, we kindly ask all in-game friends and mutuals to please respect the project's\
-> integrity—and our personal boundaries—by avoiding casual interaction during regiscout\
-> rating. thanks in advance for valuing our personal space!　♡
+|  |
+| ------------- | 
+| <blockquote>these are obviously not formerly and/or currently claimed regiscout names.<br/> this is intentionally done <ins>**only**</ins> to fully separate ourselves during and limit any potential<br/> biases from the regiscout ratings project. our "anonymity" is <ins>**not**</ins> about maintaining<br/> secrecy, it is simply a practical measure to ensure what we do is focused on fairness.<br/><br/>we kindly ask all in-game friends and mutuals to please respect the project's integrity—<br/>and our personal boundaries—by avoiding casual interaction during regiscout rating.<br/> thanks in advance for valuing our personal space!　♡</blockquote>   |
 
 <img src="https://i.postimg.cc/rFNzf8gD/ponies.png" width="375">
 <br/>
