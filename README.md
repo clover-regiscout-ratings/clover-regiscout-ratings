@@ -57,7 +57,7 @@ preferred observation type:　<ins>participator</ins>
 <ins>**regiment owners**</ins>, please contact our discord [@regiscout_ratings](https://discord.com/users/1412353928355516516) for friendly discussion/rating inquiries.\
 to abide by [pt's tos](https://pony.town/termsofservice.html) of not allowing shared accounts, our dual-owned profile is not linked in-game.
 
-> regiscout ratings was directly inspired by the [pt regiment rater](rentry.co/ptregimentrater)! viewers are highly encouraged\
+> regiscout ratings was directly inspired by the [pt regiment rater](https://rentry.co/ptregimentrater)! viewers are highly encouraged\
 > to check out their page to see additional alternative takes on all group ratings. as always, use\
 > your best judgement; <b>the best decisions are made after considering multiple perspectives.</b>
 
