@@ -17,14 +17,16 @@ regiscout ratings is a frequently-updated page maintained by two partners:\
 <br/>
 <br/>
 
-> these are obviously not formerly and/or currently claimed regiscout names. we only do this\
-> to fully separate ourselves and limit any potential biases from the regiscout ratings project;\
-> both of us understand that "anonymity" only goes so far on the internet, *especially* on pt.
+> these are obviously not formerly and/or currently claimed regiscout names. this is\
+> intentionally done <ins>**only**</ins> to fully separate ourselves during and limit any potential\
+> biases from the regiscout ratings project. our "anonymity" is <ins>**not**</ins> about maintaining\
+> secrecy, it is simply a practical measure to keep what we do 100% fair and focused.
 > <br/>
 > <br/>
-> with that being said, we kindly ask that all in-game friends/mutuals please respect our\
-> space and refrain from casual interaction during rating-related activities. thank you in\
-> advance for respecting our personal boundaries!　♡
+> thus, we kindly ask all in-game friends and mutuals to please respect the project's\
+> integrity—and our personal boundaries—by avoiding casual interaction during group\
+> observation and regiscout rating. thanks in advance for valuing our personal space!　♡
+<br/>
 <br/>
 
 <img src="https://i.postimg.cc/rFNzf8gD/ponies.png" width="375">
