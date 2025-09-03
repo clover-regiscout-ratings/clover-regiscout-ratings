@@ -22,7 +22,7 @@ regiscout ratings is a frequently-updated project maintained by two partners:\
 <br/>
 <br/>
 
-### **currently visiting:　regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$**　[right]
+### **currently visiting:　regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$**
 [🍀]　  he/him/his　 masculine terms　 adult [21-]\
 preferred observation type:　<ins>participator</ins>
 <br/>
