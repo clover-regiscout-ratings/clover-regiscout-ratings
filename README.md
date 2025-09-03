@@ -24,7 +24,8 @@ regiscout ratings is a frequently-updated project maintained by two partners:\
 
 ### **currently visiting:　regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$**　[right]
 [🍀]　  he/him/his　 masculine terms　 adult [21-]\
-observation type:　participation <ins>**only**</ins>
+preferred observation type:　<ins>participator</ins>
+<br/>
 
 |  |
 | ------------- | 
