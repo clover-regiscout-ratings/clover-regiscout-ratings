@@ -31,7 +31,7 @@ preferred observation type:　<ins>participator</ins>
 
 |  |
 | ------------- | 
-| <blockquote> our rater names are obviously not formerly or currently claimed regiscout names.<br/> this is done <ins>**only**</ins> to limit potential bias during ratings, and keeps our personal connections<br/> separate from the project. our anonymity is <ins>**not**</ins> about maintaining "secrecy"—it is merely<br/> the simplest way to ensure we *always* put fairness first.<br/><br/> we kindly ask in-game friends and mutuals to please respect the project integrity—and our<br/>personal boundaries—by avoiding casual interaction during regiscout ratings. thank you! ♡ </blockquote> |
+| <blockquote> our rater names are [obviously] not formerly or currently claimed regiscout names.<br/> this is done <ins>**only**</ins> to limit potential bias during ratings, and keeps our personal connections<br/> separate from the project. our anonymity is <ins>**not**</ins> about maintaining "secrecy"—it's completely<br/> impossible online—it is merely the simplest way to ensure we *always* put fairness first.<br/><br/> we kindly ask in-game friends and mutuals to please respect the project—and our personal<br/>boundaries—by avoiding casual interaction during regiscout ratings. thanks in advance! ♡ </blockquote> |
 ### · ──────── · 𖥸 · ──────── ·
 
 
