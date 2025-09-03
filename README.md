@@ -22,9 +22,10 @@ regiscout ratings is a frequently-updated project maintained by two partners:\
 <br/>
 <br/>
 
-**currently visiting:　regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$　[right]**\
-[🍀]　  he/him/his　 masculine terms　 adult [18+]</sup>
-observation type:　participator only
+### **currently visiting:　regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$**　[right]
+[🍀]　  he/him/his　 masculine terms　 adult [21-]\
+observation type:　participation <ins>**only**</ins>
+
 |  |
 | ------------- | 
 | <blockquote> our rater names are obviously not formerly or currently claimed regiscout names.<br/> this is done <ins>**only**</ins> to limit potential bias during ratings, and keeps our personal connections<br/> separate from the project. our anonymity is <ins>**not**</ins> about maintaining "secrecy"—it is merely<br/> the simplest way to ensure we *always* put fairness first.<br/><br/> we kindly ask in-game friends and mutuals to please respect the project integrity—and our<br/>personal boundaries—by avoiding casual interaction during regiscout ratings. thank you! ♡ </blockquote> |
