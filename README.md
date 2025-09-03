@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="475">
   
-<b> [q&a/feedback](https://regiscout-ratings.straw.page)　 　[info + frequently asked](https://rentry.co/regiscout-ratings-info)　 　[regiscout rating list](https://rentry.co/regiscout-ratings)\
+<b> [q&a + feedback](https://regiscout-ratings.straw.page)　 　[info + frequently asked](https://rentry.co/regiscout-ratings-info)　 　[regiscout rating list](https://rentry.co/regiscout-ratings)\
 **<ins>regiscout ratings</ins> managed by**　 →　[rater 🍀](https://github.com/clover-regiscout-ratings)　　[rater 🍎](https://github.com/apple-regiscout-ratings) </b>
 
 ### · ──────── · 𖥸 · ──────── ·
@@ -14,6 +14,7 @@
 
 regiscout ratings is a frequently-updated project maintained by two partners:\
 🍀  **regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍎  **regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$** [[github](https://github.com/apple-regiscout-ratings)].
+> click [here](https://rentry.co/regiscout-ratings-info) for more information on our project's purpose!
 <br/>
 <br/>
 
