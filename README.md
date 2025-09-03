@@ -24,10 +24,8 @@ regiscout ratings is a frequently-updated page maintained by two partners:\
 > <br/>
 > <br/>
 > thus, we kindly ask all in-game friends and mutuals to please respect the project's\
-> integrity—and our personal boundaries—by avoiding casual interaction during group\
-> observation and regiscout rating. thanks in advance for valuing our personal space!　♡
-<br/>
-<br/>
+> integrity—and our personal boundaries—by avoiding casual interaction during regiscout\
+> rating. thanks in advance for valuing our personal space!　♡
 
 <img src="https://i.postimg.cc/rFNzf8gD/ponies.png" width="375">
 <br/>
