@@ -52,7 +52,7 @@ preferred observation type:　<ins>participator</ins>
 <ins>before you head out...</ins>　[contact info & inspiration credits]
 </h3>
 
-<ins>**regiscout staff**</ins>, please contact our discord [@regiscout_ratings](https://discord.com/users/1412353928355516516) for friendly discussion/review inquiries.\
+<ins>**regiscout staff**</ins>, please contact our discord [@regiscout_reviews](https://discord.com/users/1412353928355516516) for friendly discussion/review inquiries.\
 to abide by [pt's tos](https://pony.town/termsofservice.html) of not allowing shared accounts, our dual-owned profile is not linked in-game.
 
 > regiscout reviews was directly inspired by the [pt regiment reviewer](https://rentry.co/ptregimentrater)! viewers are highly encouraged\
