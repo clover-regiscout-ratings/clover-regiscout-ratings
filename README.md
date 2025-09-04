@@ -4,7 +4,7 @@
 <br/>
 
 <b> [q&a + feedback](https://regiscout-reviews.straw.page)　 　[info + frequently asked](https://rentry.co/regiscout-reviews-info)　 　[regiscout review list](https://rentry.co/regiscout-reviews)\
-**<ins>[reviewer 🍀](https://github.com/regiscout-reviews-clover)　　[reviewer 🍎](https://github.com/regiscout-reviews-apple) </b>
+<b>[regiscout reviewer 🍀](https://github.com/regiscout-reviews-clover)　　 　[regiscout reviewer 🍎](https://github.com/regiscout-reviews-apple) </b>
 
 ### · ──────── · 𖥸 · ──────── ·
 
