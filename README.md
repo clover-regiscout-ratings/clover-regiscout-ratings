@@ -4,17 +4,17 @@
 <br/>
 
 <b> [q&a + feedback](https://regiscout-reviews.straw.page)　 　[info + frequently asked](https://rentry.co/regiscout-reviews-info)　 　[regiscout review list](https://rentry.co/regiscout-reviews)\
-<b>[regiscout reviewer 🍀](https://github.com/regiscout-reviews-clover)　　 　[regiscout reviewer 🍎](https://github.com/regiscout-reviews-apple) </b>
-
+[regiscout reviewer 🍀](https://github.com/regiscout-reviews-clover)　　　[regiscout reviewer 🍎](https://github.com/regiscout-reviews-apple) </b>
 ### · ──────── · 𖥸 · ──────── ·
+
 
 <h3>
 <ins>what is regiscout reviews?</ins>　[who are you two?]
 </h3>
 
 regiscout reviews is a frequently-updated [project](https://rentry.co/regiscout-reviews) maintained by two partners:\
-🍀  **rs reviewer ${{\color{#5c7c59}\large\mathsf{clover}}}$** [he/him] &  🍎  **rs reviewer** ${{color{#af4c43}largemathsf{apple}}}$ [she/her]. 
-> #### click [here](https://rentry.co/regiscout-reviews-info) for more information on our project's purpose!
+🍀  **rs reviewer ${{\color{#5c7c59}\large\mathsf{clover}}}$** [he/him] &  🍎  **rs reviewer ${{\color{#af4c43}\large\mathsf{apple}}}$** [she/her]. 
+> #### click [here](https://rentry.co/regiscout-ratings-info) for more information on our project's purpose!
 > this project <ins>**is not intended**</ins> to function as a public rankings list/"leaderboard."</br>
 > should it become one, all work must cease <ins>**immediately**</ins>, as per our pledge.
 
