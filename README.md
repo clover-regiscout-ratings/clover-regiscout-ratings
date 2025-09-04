@@ -3,7 +3,7 @@
 <img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="475">
   
 <b> [q&a + feedback](https://regiscout-ratings.straw.page)　 　[info + frequently asked](https://rentry.co/regiscout-ratings-info)　 　[regiscout rating list](https://rentry.co/regiscout-ratings)\
-**<ins>regiscout ratings</ins> managed by**　 →　[rater 🍀](https://github.com/clover-regiscout-ratings)　　[rater 🍎](https://github.com/apple-regiscout-ratings) </b>
+**<ins>regiscout ratings</ins> managed by**　 →　[rater 🍀](https://github.com/regiscout-reviews-clover)　　[rater 🍎](https://github.com/regiscout-reviews-apple) </b>
 
 ### · ──────── · 𖥸 · ──────── ·
 
