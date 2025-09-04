@@ -13,7 +13,7 @@
 </h3>
 
 regiscout reviews is a frequently-updated [project](https://rentry.co/regiscout-reviews) maintained by two partners:\
-🍀  **rs reviewer ${{\color{#5c7c59}\large\mathsf{clover}}}$** [he/him] &  🍎  **rs reviewer** ${{\color{#af4c43}\large\mathsf{apple}}}$ [she/her]. 
+🍀  **rs reviewer ${{\color{#5c7c59}\large\mathsf{clover}}}$** [he/him] &  🍎  **rs reviewer** ${{color{#af4c43}largemathsf{apple}}}$ [she/her]. 
 > #### click [here](https://rentry.co/regiscout-reviews-info) for more information on our project's purpose!
 > this project <ins>**is not intended**</ins> to function as a public rankings list/"leaderboard."</br>
 > should it become one, all work must cease <ins>**immediately**</ins>, as per our pledge.
