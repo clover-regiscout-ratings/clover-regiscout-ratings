@@ -6,8 +6,8 @@
 <b> [q&a + feedback](https://regiscout-reviews.straw.page)　 　[info + faq](https://rentry.co/regiscout-reviews-info)　 　[review list](https://rentry.co/regiscout-reviews)\
 [ltr! hosted by 🍀](https://rentry.co/lets-talk-regiscouts)　　　[reviewer 🍀](https://github.com/regiscout-reviews-clover)　　　[reviewer 🍎](https://github.com/regiscout-reviews-apple) 
 
-take my tt/td study poll!: [touch triggers/touch\
-discomforts: mmorpg pony town's youth\
+[09/06/25] take my tt/td study poll!: [touch triggers/\
+touch discomforts: mmorpg pony town's youth\
 psychological phenomenon [an academic study poll]](https://forms.gle/HB9iJH3D1WUTcYoU9) </b>
 
 > **<ins>let's talk regiscouts!</ins> [ltr!]** is a "talk show" hosting\
