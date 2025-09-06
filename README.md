@@ -1,17 +1,15 @@
 <div align="center">
-<img src="https://i.postimg.cc/65BG9Tph/image.png" width="475">
+<img src="https://i.postimg.cc/4yQfTR3B/image.png" width="475">
 <br/>
 <br/>
 
 <b> [q&a + feedback](https://regiscout-reviews.straw.page)　 　[info + faq](https://rentry.co/regiscout-reviews-info)　 　[review list](https://rentry.co/regiscout-reviews)\
-[reviewer 🍀](https://github.com/regiscout-reviews-clover)　　　[reviewer 🍎](https://github.com/regiscout-reviews-apple) </b>
-<br/>
-<br/>
+[ltr! hosted by 🍀](https://rentry.co/lets-talk-regiscouts)　　　[reviewer 🍀](https://github.com/regiscout-reviews-clover)　　　[reviewer 🍎](https://github.com/regiscout-reviews-apple) </b>
 
-<img src="https://i.postimg.cc/DZchjWcm/image.png" width="200">
-<br/>
-
-<sup>[let's talk regiscouts!](https://github.com/regiscout-reviews-clover) by 🍀</sup>
+> **<ins>let's talk regiscouts!</ins> [ltr!]** is a "talk show" hosting\
+> regiscout-related academic essays & discussions/\
+> thought pieces drafted by **reviewer clover,** a university-\
+> enrolled youth [teen] sociologist-in-training.
 
 ### · ──────── · 𖥸 · ──────── ·
 
