@@ -7,7 +7,7 @@
 [ltr! hosted by 🍀](https://rentry.co/lets-talk-regiscouts)　　　[reviewer 🍀](https://github.com/regiscout-reviews-clover)　　　[reviewer 🍎](https://github.com/regiscout-reviews-apple) 
 
 [09/06/25] take my tt/td study poll!: [spatial boundaries\
-within pony town regiscouts [tt/td]: a mmorpg\
+within pony town regiscouts [tt/td catering]: a mmorpg\
 roleplay sub-community's youth psychological\
 phenomenon [an academic study poll]](https://forms.gle/HB9iJH3D1WUTcYoU9) </b>
 
