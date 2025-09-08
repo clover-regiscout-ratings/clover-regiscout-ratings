@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-> `[09/06/25]` **take my tt/td catering study poll!:** [enforcing spatial\
+> `[09/06/25]` **fill my tt/td catering study form!:** [enforcing spatial\
 > boundaries within pony town regiscouts [tt/td catering]:\
 > mmorpg pony town's roleplay sub-community's youth\
 > psychological phenomenon [an academic study poll]](https://forms.gle/HB9iJH3D1WUTcYoU9)
